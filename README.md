@@ -1,7 +1,6 @@
 # Hospital-Management-System
 
-# Reg No:212225040002
-# Name:Aadhithya V
+# Reg No:21222504096
 # Date:30/08/2026
 
 
